@@ -1,2 +1,2 @@
 This is a clone of a well known drum module, it has been tested, and with a few fixes, works fine.
-The main issue is the transistors are 'flipped', this is due to the pin numbering is different between the THT and SMD versions within kicad. You can fix this by turnin gthe transistor over and fitting it upside down. Theres one j111X component which doesnt have this problem and should be fitted as normal.
+The main issue is the transistors are 'flipped', this is due to the pin numbering being different between the THT and SMD versions within kicad. You can fix this by turning the transistor over and fitting it upside down. Theres one j111X component which doesnt have this problem and should be fitted as normal.
